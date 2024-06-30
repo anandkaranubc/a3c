@@ -1,6 +1,6 @@
 # A3C for Kung Fu
 
-![A3C Results](A3C_Results.gif)
+![](https://github.com/anandkaranubc/a3c/blob/main/A3C%20Results.gif)
 
 This project implements the Asynchronous Advantage Actor-Critic (A3C) algorithm to play the classic Atari game Kung Fu. The implementation leverages PyTorch for building and training the neural network and Gymnasium for the environment.
 
